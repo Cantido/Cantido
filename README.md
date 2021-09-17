@@ -1,5 +1,11 @@
-### Hi there 👋
+Hi! I'm Rosa!
 
+
+- 🔭 I’m currently working on [Effusion](https://github.com/Cantido/effusion), my BitTorrent client
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: https://keybase.io/cantido
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm an amateur radio operator, callsign KE∅VTF
 <!--
 **Cantido/Cantido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

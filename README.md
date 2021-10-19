@@ -6,6 +6,12 @@ Hi! I'm Rosa!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an amateur radio operator, callsign KE∅VTF
 
+## Elixir Community
+
+- [cosmicrose](https://elixirforum.com/u/cosmicrose) on the Elixir forums
+- "Rosa" on the [Elixir Slack](https://elixir-slackin.herokuapp.com/)
+- [cantido](https://hex.pm/users/cantido) on hex.pm
+
 ## Hacktoberfest Repositories
 
 I'm trying to contribute for Hacktoberfest!

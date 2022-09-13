@@ -1,10 +1,14 @@
 Hi! I'm Rosa!
 
-- 🔭 I’m currently working on [Effusion](https://github.com/Cantido/effusion), my BitTorrent client
+- 🔭 I’m currently working on [Solvent](https://github.com/Cantido/solvent), my event bus, and [Loom](https://github.com/Cantido/loom), my database for events.
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: https://keybase.io/cantido
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an amateur radio operator, callsign KE∅VTF
+
+I'm trying to use GitHub less, and open-source platforms more.
+Visit [my profile on SourceHut](https://sr.ht/~cosmicrose/).
+For information on why you might want to do this too, visit <https://GiveUpGitHub.org>.
 
 ## Elixir Community
 

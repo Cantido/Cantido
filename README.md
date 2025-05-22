@@ -1,8 +1,8 @@
 Hi! I'm Rosa!
 
-- 🔭 I’m currently working on [Solvent](https://github.com/Cantido/solvent), my event bus, and [Loom](https://github.com/Cantido/loom), my database for events.
+- 🔭 I’m currently working on little terminal apps to try and make the perfect dashboard
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: https://keybase.io/cantido
+- 📫 How to reach me: [@cosmicrose:matrix.org](https://matrix.to/#/@cosmicrose:matrix.org)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an amateur radio operator, callsign KE∅VTF
 

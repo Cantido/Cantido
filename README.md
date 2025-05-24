@@ -7,7 +7,7 @@ Hi! I'm Rosa!
 - ⚡ Fun fact: I'm an amateur radio operator, callsign KE∅VTF
 
 I'm trying to use GitHub less, and open-source platforms more.
-Visit [my profile on SourceHut](https://sr.ht/~cosmicrose/).
+Visit [my profile on Codeberg](https://codeberg.org/cosmicrose).
 For information on why you might want to do this too, visit <https://GiveUpGitHub.org>.
 
 ## Elixir Community
